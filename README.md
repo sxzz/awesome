@@ -18,7 +18,7 @@ Strongly opinionated list of awesome things. (in no particular order)
 - [Raycast](https://www.raycast.com/) - A pretty launcher for macOS.
 - [1Password](https://1password.com/) - A password and documents manager.
 - [Google Chrome](https://www.google.com/chrome/) - A general web browser.
-- [iTerm](https://iterm2.com/) - A terminal for macOS.
+- [Ghostty](https://ghostty.org/) - A fast terminal emulator.
 - [Spotify](https://www.spotify.com/) - A music player.
 
 ## Website
